@@ -13,6 +13,7 @@
 - HTML
 - CSS
 - JavaScript
+- Python
 
 ## Current Goals
 - Build 20+ GitHub Projects
