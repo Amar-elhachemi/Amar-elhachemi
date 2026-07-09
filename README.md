@@ -1,50 +1,103 @@
 # 👋 Hi, I'm Amar Elhachemi Cherki
 
-### Flutter Developer • Full-Stack Web Developer • UI Enthusiast
+### Flutter Developer • Full-Stack Web Developer • Building software that solves real-world problems.
 
-I'm a developer from 🇩🇿 Algeria passionate about building modern applications that solve real-world problems.
+I'm a developer from 🇩🇿 Algeria passionate about creating modern applications, beautiful user interfaces, and practical tools that people can use every day.
 
-Currently, I'm focused on creating **eLhash Hub**, an all-in-one productivity and personal management application built with Flutter.
+I'm currently building **eLhash Hub**, an ambitious all-in-one personal management application designed to become a complete digital companion.
 
 ---
 
-# 🚀 Currently Working On
+# 🚀 Current Project
 
-### 📱 eLhash Hub
+## 📱 eLhash Hub
 
-An all-in-one life management app featuring:
+A modern Flutter application that combines multiple everyday tools into one experience.
+
+### Modules
 
 - 💰 Finance Management
-- ❤️ Health Tracking
+- ❤️ Health & Fitness
 - 🚗 Vehicle Management
-- 📝 Productivity Tools
+- 📝 Productivity
 - 📍 Local Services
 - 🤖 AI Assistant
 - 🌍 Multi-language Support
 - 💱 Multi-currency Support
+
+Current Development Stage
+
+```
+Alpha v0.2
+████████░░░░░░░░░░░░ 20%
+```
+
+Current Milestone
+
+> 🏃 Health Module
+
+---
+
+# 🌐 Live Projects
+
+## 🌍 Personal Portfolio
+🔗 https://amar-elhachemi.github.io/portfolio/
+
+Modern developer portfolio built to showcase my projects and skills.
+
+---
+
+## 💼 Portfolio Websites
+
+🔗 https://amar-elhachemi.github.io/portfolio-websites/
+
+Collection of landing pages designed for local businesses.
+
+---
+
+## 🎯 CS2 Crosshair Generator
+
+🔗 https://amar-elhachemi.github.io/cs2-crosshair-generator/
+
+Generate and preview professional Counter-Strike 2 crosshairs.
+
+---
+
+## 🚀 Impossible Landing Page
+
+🔗 https://amar-elhachemi.github.io/landing-page/
+
+Creative futuristic landing page experiment.
 
 ---
 
 # 💻 Tech Stack
 
 ### Mobile
+
 - Flutter
 - Dart
 
-### Web
+### Backend
+
 - Laravel
 - PHP
-- JavaScript
+
+### Frontend
+
 - HTML5
 - CSS3
+- JavaScript
 - Vite
 
-### Database
+### Databases
+
 - SQLite
 - Hive
 - MySQL
 
 ### Tools
+
 - Git
 - GitHub
 - VS Code
@@ -53,38 +106,56 @@ An all-in-one life management app featuring:
 
 ---
 
-# 🎯 Current Goals (2026)
+# 🎯 Goals for 2026
 
 - 🚀 Publish eLhash Hub on Google Play
 - 💻 Release Windows version
-- 🌐 Build my developer portfolio
-- 📈 Reach 30+ quality GitHub repositories
-- 🤖 Learn AI integration in Flutter
+- 🌐 Launch Web version
+- 🤖 Integrate AI features
+- 📈 Build 30+ high-quality GitHub repositories
+- ⭐ Reach 100 GitHub Stars
 
 ---
 
-# 📌 Featured Projects
+# 📌 Featured Repositories
 
-### 📱 eLhash Hub
-A modern personal assistant built with Flutter.
+⭐ eLhash Hub
 
-### 🌐 Portfolio Websites
-Landing pages for local businesses.
+Flutter application for personal finance, health, productivity and AI.
 
-### 🎮 Gaming Tools
-Utilities for FPS players.
+⭐ Portfolio Websites
+
+Business landing pages built with modern web technologies.
+
+⭐ CS2 Crosshair Generator
+
+Interactive gaming utility.
+
+⭐ Impossible Landing
+
+Experimental futuristic UI design.
 
 ---
 
-# 📊 GitHub Stats
+# 📈 What I'm Learning
 
-<!-- Add GitHub stats cards here later -->
+- Flutter Architecture
+- Mobile UI/UX
+- Firebase
+- AI Integration
+- Software Architecture
+- Clean Code
 
 ---
 
 # 📫 Connect With Me
 
-GitHub:
+GitHub
+
 https://github.com/Amar-elhachemi
 
-More links coming soon...
+Portfolio
+
+https://amar-elhachemi.github.io/portfolio/
+
+Always building something new 🚀
