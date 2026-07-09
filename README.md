@@ -159,3 +159,10 @@ Portfolio
 https://amar-elhachemi.github.io/portfolio/
 
 Always building something new 🚀
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amar-elhachemi&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amar-elhachemi&layout=compact&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=Amar-elhachemi&color=blue)
