@@ -187,33 +187,6 @@ root@github:~$ █
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amar-elhachemi&theme=tokyo-night"/>
 </p>
 
----
-
-# 🚀 Development Journey
-
-```text
-2026
-
-Started Flutter
-        │
-        ▼
-Built Portfolio
-        │
-        ▼
-Published Web Projects
-        │
-        ▼
-Started eLhash Hub
-        │
-        ▼
-Google Play Release
-        │
-        ▼
-Windows Version
-        │
-        ▼
-Complete Product Ecosystem
-```
 
 ---
 
