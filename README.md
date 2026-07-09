@@ -9,180 +9,159 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-Developer-4F8CFF?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FullStack-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20Source-GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/🇩🇿-Algeria-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flutter-Developer-4F8CFF?style=for-the-badge&logo=flutter"/>
+  <img src="https://img.shields.io/badge/Laravel-FullStack-FF2D20?style=for-the-badge&logo=laravel"/>
+  <img src="https://img.shields.io/badge/UI-Designer-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open_Source-Lover-181717?style=for-the-badge&logo=github"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a software developer from **🇩🇿 Algeria** passionate about creating modern applications that solve real-world problems.
+```bash
+root@github:~$ whoami
+Amar Elhachemi Cherki
 
-I enjoy turning ideas into polished products—from UI design and planning to development and deployment.
+root@github:~$ cat profile.txt
 
-My current mission is building **eLhash Hub**, a modern all-in-one productivity platform that combines finance, health, AI, local services, and many everyday tools into one seamless experience.
+[INFO] Software Developer from 🇩🇿 Algeria.
 
-Outside of Flutter, I also build websites, landing pages, developer tools, and interactive experiences.
+[INFO] Passionate about creating modern
+       applications that solve real-world problems.
 
+[INFO] Turning ideas into polished products —
+       from UI design and planning
+       to development and deployment.
+
+[CURRENT] Building eLhash Hub
+
+          An all-in-one productivity platform
+          combining finance, health, AI,
+          local services and everyday tools.
+
+[EXTRA] Websites
+[EXTRA] Landing Pages
+[EXTRA] Developer Tools
+[EXTRA] Interactive Experiences
+
+root@github:~$ █
+```
 ---
 
-# 🚀 Current Focus
+## 🚀 Current Focus
 
-## 📱 eLhash Hub
+```bash
+root@github:~$ project --current
 
-> **One App. Your Whole Life.**
+Project : eLhash Hub
 
-Current Version
+Tagline : One App. Your Whole Life.
 
-```
-v0.2 Alpha
-```
+Version : v0.2 Alpha
 
-Development Progress
+Progress
 
-```
 ████░░░░░░░░░░░░░░░░░░ 20%
+
+Status
+
+✓ Dashboard
+✓ Finance Module
+⚒ Health Module
+○ AI Integration
+○ Cloud Synchronization
+
+root@github:~$ █
 ```
 
-Currently Working On
+---
 
-- ❤️ Health Module
-- 🤖 AI Integration
-- ☁️ Cloud Synchronization
+## ✨ eLhash Hub Modules
+
+```bash
+root@github:~$ ls modules/
+
+[✓] Dashboard
+[✓] Finance
+[⚒] Health
+[○] Vehicle
+[○] Productivity
+[○] Local Services
+[○] AI Assistant
+[○] Cloud Sync
+[○] Multi-language
+[○] Multi-currency
+
+root@github:~$ █
+```
 
 ---
 
-# ✨ eLhash Hub Modules
+## 🌐 Live Projects
 
-| Module | Status |
-|---------|--------|
-| 🏠 Dashboard | ✅ Complete |
-| 💰 Finance | ✅ Complete |
-| ❤️ Health | 🚧 In Progress |
-| 🚗 Vehicle | ⏳ Planned |
-| 📝 Productivity | ⏳ Planned |
-| 📍 Local Services | ⏳ Planned |
-| 🤖 AI Assistant | ⏳ Planned |
-| ☁️ Cloud Sync | ⏳ Planned |
-| 🌍 Multi-language | ⏳ Planned |
-| 💱 Multi-currency | ⏳ Planned |
+```bash
+root@github:~$ ls projects/
 
----
+[01] Portfolio
+     ↳ https://amar-elhachemi.github.io/portfolio/
 
-# 🌐 Live Projects
+[02] Portfolio Websites
+     ↳ https://amar-elhachemi.github.io/portfolio-websites/
 
-| Project | Live Demo |
-|---------|-----------|
-| 🌍 Portfolio | https://amar-elhachemi.github.io/portfolio/ |
-| 💼 Portfolio Websites | https://amar-elhachemi.github.io/portfolio-websites/ |
-| 🎮 CS2 Crosshair Generator | https://amar-elhachemi.github.io/cs2-crosshair-generator/ |
-| 🚀 Impossible Landing | https://amar-elhachemi.github.io/landing-page/ |
+[03] CS2 Crosshair Generator
+     ↳ https://amar-elhachemi.github.io/cs2-crosshair-generator/
+
+[04] Impossible Landing
+     ↳ https://amar-elhachemi.github.io/landing-page/
+
+root@github:~$ █
+```
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-## 📱 Mobile
+```bash
+root@github:~$ tech --list
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart"/>
-</p>
+📱 Mobile
+   ├── Flutter
+   └── Dart
 
-## 🌐 Backend
+🌐 Backend
+   ├── Laravel
+   └── PHP
 
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,php"/>
-</p>
+🎨 Frontend
+   ├── HTML5
+   ├── CSS3
+   └── JavaScript
 
-## 🎨 Frontend
+🗄 Database
+   ├── MySQL
+   └── SQLite
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-</p>
+🐍 Programming
+   └── Python
 
-## 🗄 Database
+🛠 Tools
+   ├── Git
+   ├── GitHub
+   ├── VS Code
+   ├── Android Studio
+   └── Figma
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-</p>
+root@github:~$ █
+```
 
-## ⚒ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma"/>
-</p>
-
----
-
-# 🛣 Development Roadmap
-
-- ✅ Dashboard
-- ✅ Navigation
-- ✅ Finance Module
-- 🚧 Health Module
-- ⏳ Vehicle Module
-- ⏳ Productivity Module
-- ⏳ AI Assistant
-- ⏳ Authentication
-- ⏳ Cloud Sync
-- ⏳ Windows Desktop
-- ⏳ Web Version
-- ⏳ Google Play Release
-
----
-
-# ⭐ Featured Repositories
-
-### 📱 eLhash Hub
-
-Modern life management platform built with Flutter.
-
----
-
-### 🌍 Portfolio
-
-Personal developer portfolio.
-
----
-
-### 💼 Portfolio Websites
-
-Landing pages for local businesses.
-
----
-
-### 🎮 CS2 Crosshair Generator
-
-Utility for Counter-Strike 2 players.
-
----
-
-### 🚀 Impossible Landing
-
-Experimental futuristic landing page.
-
----
-
-# 📚 Currently Learning
-
-- Flutter Animations
-- Riverpod
-- Clean Architecture
-- AI APIs
-- Firebase
-- Windows Desktop Development
-- Advanced UI Design
 
 ---
 
 # 🎯 2026 Goals
 
 - 🚀 Publish eLhash Hub on Google Play
-- 💻 Release Windows Version
-- 🌐 Release Web Version
-- 🤖 Integrate AI
 - ⭐ Reach 30+ Quality Repositories
 - 📱 Reach 1,000+ Downloads
 - 🌍 Build Products Used by Thousands
@@ -250,7 +229,7 @@ https://linkedin.com/in/amarelhachemicherki
 
 📧 Email
 
-your@email.com
+amar.elhachemi.cherki@gmail.com
 
 ---
 
