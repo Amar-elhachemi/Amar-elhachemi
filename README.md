@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋 I'm Amar Elhachemi Cherki</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1500&color=4F8CFF&center=true&vCenter=true&width=900&lines=Flutter+Developer;Full-Stack+Web+Developer;Building+Modern+Digital+Products;Creator+of+eLhash+Hub;Always+Building+Something+New+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1500&color=4F8CFF&center=true&vCenter=true&width=900&lines=Flutter+Developer;Full-Stack+Web+Developer;Building+Modern+Digital+Products;Creator+of+eLhash+Hub;Always+Building+Something+New" alt="Typing SVG" />
 </p>
 
 <p align="center">
