@@ -136,16 +136,17 @@ Current Milestone
 - 🤖 AI Integration
 - 📈 30+ Quality GitHub Repositories
 
----
+--
 
-# 📈 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amar-elhachemi&theme=tokyonight" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amar-elhachemi&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar-elhachemi&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amar-elhachemi&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amar-elhachemi&theme=tokyonight" />
 </p>
 
 ---
