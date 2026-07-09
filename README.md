@@ -1,73 +1,65 @@
-# 👋 Hi, I'm Amar Elhachemi Cherki
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Amar Elhachemi Banner"/>
+</p>
 
-### Flutter Developer • Full-Stack Web Developer • Building software that solves real-world problems.
+<h1 align="center">Hi 👋 I'm Amar Elhachemi Cherki</h1>
 
-I'm a developer from 🇩🇿 Algeria passionate about creating modern applications, beautiful user interfaces, and practical tools that people can use every day.
+<h3 align="center">
+Flutter Developer • Full-Stack Web Developer • Building Products That Solve Real Problems
+</h3>
 
-I'm currently building **eLhash Hub**, an ambitious all-in-one personal management application designed to become a complete digital companion.
+<p align="center">
+
+🇩🇿 Algeria • 📱 Creator of <strong>eLhash Hub</strong>
+
+</p>
 
 ---
 
-# 🚀 Current Project
+# 🚀 Currently Building
 
 ## 📱 eLhash Hub
 
-A modern Flutter application that combines multiple everyday tools into one experience.
+> **One App. Your Whole Life.**
+
+A modern Flutter application designed to combine multiple everyday tools into one beautiful experience.
 
 ### Modules
 
-- 💰 Finance Management
-- ❤️ Health & Fitness
-- 🚗 Vehicle Management
+- 💰 Finance
+- ❤️ Health
+- 🚗 Vehicle
 - 📝 Productivity
-- 📍 Local Services
+- 📍 Local
 - 🤖 AI Assistant
-- 🌍 Multi-language Support
-- 💱 Multi-currency Support
+- ⚙️ Settings
+- ☁️ Cloud Sync
 
-Current Development Stage
+---
+
+# 📊 Development Progress
 
 ```
-Alpha v0.2
 ████████░░░░░░░░░░░░ 20%
-```
+
+Current Version
+v0.2 Alpha
 
 Current Milestone
 
-> 🏃 Health Module
+🏃 Health Module
+```
 
 ---
 
 # 🌐 Live Projects
 
-## 🌍 Personal Portfolio
-🔗 https://amar-elhachemi.github.io/portfolio/
-
-Modern developer portfolio built to showcase my projects and skills.
-
----
-
-## 💼 Portfolio Websites
-
-🔗 https://amar-elhachemi.github.io/portfolio-websites/
-
-Collection of landing pages designed for local businesses.
-
----
-
-## 🎯 CS2 Crosshair Generator
-
-🔗 https://amar-elhachemi.github.io/cs2-crosshair-generator/
-
-Generate and preview professional Counter-Strike 2 crosshairs.
-
----
-
-## 🚀 Impossible Landing Page
-
-🔗 https://amar-elhachemi.github.io/landing-page/
-
-Creative futuristic landing page experiment.
+| Project | Live Demo |
+|---------|-----------|
+| 🌍 Portfolio | https://amar-elhachemi.github.io/portfolio/ |
+| 💼 Portfolio Websites | https://amar-elhachemi.github.io/portfolio-websites/ |
+| 🎮 CS2 Crosshair Generator | https://amar-elhachemi.github.io/cs2-crosshair-generator/ |
+| 🚀 Impossible Landing | https://amar-elhachemi.github.io/landing-page/ |
 
 ---
 
@@ -75,45 +67,43 @@ Creative futuristic landing page experiment.
 
 ### Mobile
 
-- Flutter
-- Dart
+<p>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart"/>
+
+</p>
 
 ### Backend
 
-- Laravel
-- PHP
+<p>
+
+<img src="https://skillicons.dev/icons?i=laravel,php"/>
+
+</p>
 
 ### Frontend
 
-- HTML5
-- CSS3
-- JavaScript
-- Vite
+<p>
 
-### Databases
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 
-- SQLite
-- Hive
-- MySQL
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+
+</p>
 
 ### Tools
 
-- Git
-- GitHub
-- VS Code
-- Android Studio
-- Figma
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma"/>
 
-# 🎯 Goals for 2026
-
-- 🚀 Publish eLhash Hub on Google Play
-- 💻 Release Windows version
-- 🌐 Launch Web version
-- 🤖 Integrate AI features
-- 📈 Build 30+ high-quality GitHub repositories
-- ⭐ Reach 100 GitHub Stars
+</p>
 
 ---
 
@@ -121,48 +111,73 @@ Creative futuristic landing page experiment.
 
 ⭐ eLhash Hub
 
-Flutter application for personal finance, health, productivity and AI.
+📱 Modern life management application built with Flutter.
+
+⭐ Portfolio
+
+🌍 Personal developer portfolio.
 
 ⭐ Portfolio Websites
 
-Business landing pages built with modern web technologies.
+💼 Landing pages for local businesses.
 
 ⭐ CS2 Crosshair Generator
 
-Interactive gaming utility.
-
-⭐ Impossible Landing
-
-Experimental futuristic UI design.
+🎯 Utility for Counter-Strike 2 players.
 
 ---
 
-# 📈 What I'm Learning
+# 🎯 2026 Goals
 
-- Flutter Architecture
-- Mobile UI/UX
-- Firebase
-- AI Integration
-- Software Architecture
-- Clean Code
+- ✅ Build eLhash Hub
+- 🔄 Publish on Google Play
+- 💻 Windows Desktop Version
+- 🌐 Web Version
+- 🤖 AI Integration
+- 📈 30+ Quality GitHub Repositories
 
 ---
 
-# 📫 Connect With Me
+# 📈 GitHub Statistics
 
-GitHub
+<p align="center">
 
-https://github.com/Amar-elhachemi
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amar-elhachemi&show_icons=true&theme=tokyonight"/>
 
-Portfolio
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar-elhachemi&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amar-elhachemi&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📬 Connect With Me
+
+🌍 Portfolio
 
 https://amar-elhachemi.github.io/portfolio/
 
-Always building something new 🚀
-## 📊 GitHub Stats
+💼 LinkedIn
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amar-elhachemi&show_icons=true&theme=tokyonight)
+https://linkedin.com/in/amarelhachemicherki
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amar-elhachemi&layout=compact&theme=tokyonight)
+📧 Email
 
-![](https://komarev.com/ghpvc/?username=Amar-elhachemi&color=blue)
+amar.elhachemi.cherki@gmail.com
+
+---
+
+<p align="center">
+
+<i>Always building something new 🚀</i>
+
+</p>
