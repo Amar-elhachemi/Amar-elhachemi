@@ -116,6 +116,9 @@ root@github:~$ ls projects/
 [04] Impossible Landing
      ↳ https://amar-elhachemi.github.io/landing-page/
 
+[05] Cyclo.Vision
+     ↳ https://amar-elhachemi.github.io/Cyclo.Vision/
+
 root@github:~$ █
 ```
 
